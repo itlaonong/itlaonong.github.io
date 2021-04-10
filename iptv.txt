@@ -1,0 +1,1 @@
+CCTV-1,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069#http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
