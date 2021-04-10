@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",CCTV-1综合
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-2" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/C2JSKDXTB.png",CCTV-2财经
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-3" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",CCTV-3综艺
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-4" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/CJSKDXTB.png",CCTV-4中文国际
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-5" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/C5JSKDXTB.png",CCTV-5体育
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV5+" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",CCTV-5+体育赛事
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-6" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",CCTV-6电影
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-7" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/C7JSKDXTB.png",CCTV-7军事 农业
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-8" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",CCTV-8电视剧
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="CCTV-9" group-title="中央电视台" tvg-logo=http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/C9JSKDXTB.png",CCTV-9纪录
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-10" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/C10JSKDXTB.png",CCTV-10科教
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-11" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/C11JSKDXTB.png",CCTV-11戏曲
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-12" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/C12JSKDXTB.png",CCTV-12社会与法
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-13" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/C13JSKDXTB.png",CCTV-13新闻
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-14" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/C14JSKDXTB.png",CCTV-14少儿
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="cctv-15" group-title="中央电视台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/C15JSKDXTB.png",CCTV-15音乐
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="jiangsustv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangsustv/njsaf.png",江苏卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="zhejiangstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zhejiangstv/lgjd.png",浙江卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="beijingstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/beijingstv/B1JSDSKDTB.png",北京卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="hunanstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hunanstv/jkgsdjg.png",湖南卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="guangdongstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangdongstv/sfagfa.png",广东卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="dongfangstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongfangstv/jgjsfsh.png",东方卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="heilongjiangstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-2500k-1080P-heilongjiangstv/hljjskdzy1.png",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="shenzhenstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shenzhenstv/jffa.png",深圳卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="shandongstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongstv/jflafh.png",山东卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="tianjinstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/tianjinstv/kgsg.png",天津卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001036/index.m3u8
+#EXTINF:-1 tvg-id="hubeistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hubeistv/fasf.png",湖北卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="chongqingstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/chongqingstv/cqwejszy123.png",重庆卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="anhuistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anhuistv/hfsdi.png",安徽卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="jiangxistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangxistv/kdhf.png",江西卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="liaoningstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/liaoningstv/mnfha.png",辽宁卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="dongnanstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongnanstv/jsfjghjsdf.png",东南卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="sichuanstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/sichuanstv/jsdjsg.png",四川卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001130/index.m3u8
+#EXTINF:-1 tvg-id="guangxistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/kafj.png",广西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001095/index.m3u8
+#EXTINF:-1 tvg-id="hebeistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hebeistv/kfsj.png",河北卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001081/index.m3u8
+#EXTINF:-1 tvg-id="shanxistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxistv/hjfda.png",山西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001070/index.m3u8
+#EXTINF:-1 tvg-id="shanxi1stv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxi1stv/fsasf.png",陕西卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
+#EXTINF:-1 tvg-id="guizhoustv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guizhoustv/hdfsu.png",贵州卫视
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028689&livemode=1&stbId=00000250001B50800001B401420BC069
+#EXTINF:-1 tvg-id="qinghaistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/qinghaistv/jsfdfdgj.png",青海卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001082/index.m3u8
+#EXTINF:-1 tvg-id="ningxiastv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ningxiastv/fafjk.png",宁夏卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001074/index.m3u8
+#EXTINF:-1 tvg-id="gansustv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/gansustv/sdg.png",甘肃卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001069/index.m3u8
+#EXTINF:-1 tvg-id="neimenggustv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/neimenggustv/hjzdsjf.png",内蒙古卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
+#EXTINF:-1 tvg-id="xjtv1" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xjtv1/sgsd.png",新疆卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
+#EXTINF:-1 tvg-id="yntv1" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/yntv1/sg.png",云南卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001094/index.m3u8
+#EXTINF:-1 tvg-id="xizangstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xizangstv/hdhgs.png",西藏卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
+#EXTINF:-1 tvg-id="jilintv" group-title="卫视" tvg-logo="",吉林卫视
+http://117.135.56.6:6060/cms001/ch00000090990000001077/index.m3u8
