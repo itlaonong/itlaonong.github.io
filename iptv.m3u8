@@ -89,7 +89,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001094/index.m3u8
 #EXTINF:-1 tvg-id="xizangstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xizangstv/hdhgs.png",西藏卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 tvg-id="jilintv" group-title="卫视" tvg-logo="",吉林卫视
+#EXTINF:-1 tvg-id="jilintv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jilinstv/xbyxtbjlws.png",吉林卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001077/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="安徽地方" tvg-logo="",安徽公共
 http://zbbf2.ahtv.cn/live/752.m3u8
