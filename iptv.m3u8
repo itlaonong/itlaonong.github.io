@@ -56,7 +56,7 @@ http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=10000000010
 #EXTINF:-1 tvg-id="chongqingstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/chongqingstv/cqwejszy123.png",重庆卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="anhuistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anhuistv/hfsdi.png",安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+http://zbbf2.ahtv.cn/live/749.m3u8
 #EXTINF:-1 tvg-id="jiangxistv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangxistv/kdhf.png",江西卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00000250001B50800001B401420BC069
 #EXTINF:-1 tvg-id="liaoningstv" group-title="卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/liaoningstv/mnfha.png",辽宁卫视
