@@ -16,7 +16,7 @@ module.exports = {
   ],
 
   // Theme to use
-  theme: "melodydl",
+  // theme: "melodydl",
   // Theme config
   themeConfig: {
     title: "码农笔记",
