@@ -13,6 +13,6 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           TARGET_REPO: itlaonong/itlaonong.github.io
           TARGET_BRANCH: gh-pages
-          BUILD_SCRIPT: yarn && yarn build
+          BUILD_SCRIPT: yarn && yarn docs:build
           BUILD_DIR: docs/.vuepress/dist
           CNAME: https://itlaonong.com
