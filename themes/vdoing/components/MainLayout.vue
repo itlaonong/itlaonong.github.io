@@ -20,7 +20,7 @@
 
   .main-left {
     flex: 1;
-    max-width: 72%;
+    max-width: 76%;
 
     .theme-vdoing-content.card-box {
       padding: 1rem 1.5rem;
@@ -58,7 +58,7 @@
     display: block;
 
     .main-left {
-      width: 100%;
+      max-width: 100%;
 
       .post-list {
         margin-bottom: 3rem;
