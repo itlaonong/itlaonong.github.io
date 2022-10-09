@@ -22,6 +22,9 @@ export default {
     };
   },
   props: {
+    src: {
+      type: String,
+    },
     aid: {
       type: String,
     },
@@ -40,11 +43,15 @@ export default {
     };
   },
   created() {
+    if (this.src) {
+      this.ihtml = this.src;
+      return;
+    }
     const base = "https://player.bilibili.com/player.html";
     //const base = "https://www.bilibili.com/blackboard/html5mobileplayer.html";
     //const base = "https://www.bilibili.com/blackboard/newplayer.html";
     //const base = "https://www.bilibili.com/blackboard/html5player.html";
-    //const base = "/bilibili-player.html";
+    //const base = "/video.html";
 
     this.ihtml = `${base}?cid=${this.cid || ""}&aid=${this.aid || ""}&bvid=${
       this.bid || ""
